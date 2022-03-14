@@ -12,5 +12,3 @@ export default {
 
 <style>
 </style>
-© 2022 GitHub, Inc.
-Terms
